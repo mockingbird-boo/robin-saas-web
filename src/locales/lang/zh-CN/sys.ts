@@ -55,14 +55,14 @@ export default {
     networkErrorSubTitle: '抱歉，您的网络连接已断开，请检查您的网络！',
   },
   login: {
-    backSignIn: '返回',
-    signInFormTitle: '登录',
+    backSignIn: '返 回',
+    signInFormTitle: '登 录',
     mobileSignInFormTitle: '手机登录',
     signUpFormTitle: '注册',
     forgetFormTitle: '重置密码',
 
-    signInTitle: '开箱即用的中后台管理系统',
-    signInDesc: '输入您的个人详细信息开始使用！',
+    signInTitle: '云上云下互联互通，数字化未来尽在掌控之中',
+    signInDesc: '我们的客户有多少想象力，我们的团队就有多少创造力！',
     policy: '我同意xxx隐私政策',
     scanSign: `扫码后点击"确认"，即可完成登录`,
 
